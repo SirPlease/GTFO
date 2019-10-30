@@ -2,6 +2,9 @@
 
 ![](https://steamcdn-a.akamaihd.net/steam/apps/493520/header.jpg?t=1572095876)
 
+**[Steam Store](https://store.steampowered.com/app/493520/GTFO/)**
+**[Latest Footage of GTFO](https://www.youtube.com/watch?v=ZYr8mCATrL4)** (Developer Playthrough, not included in the Alpha)
+
 ---
 
 ## What is **GTFO?**
