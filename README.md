@@ -1,6 +1,6 @@
 # **GTFO**
 
-> "You will forget laughing at the game's name after experiencing it first hand."
+![](https://steamcdn-a.akamaihd.net/steam/apps/493520/header.jpg?t=1572095876)
 
 ---
 
