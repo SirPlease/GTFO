@@ -1,19 +1,17 @@
-# **GTFO**
-
 ![](https://steamcdn-a.akamaihd.net/steam/apps/493520/header.jpg?t=1572095876)  
 
 **[Steam Store](https://store.steampowered.com/app/493520/GTFO/)**
 
 ---
 
-## What is **GTFO?**
+# What is **GTFO?**
 * A **hardcore** 4 player cooperative game, with a focus on team play and atmosphere  like you've never seen before.
   * One tiny little mistake by any one of your teammates can end up costing you a lot of health and ammo if you're lucky to even survive.
 * The game focuses heavily on Stealth and cooperative gameplay, if you're one to go in Guns Blazing or *not* coordinating with your team properly you're very VERY likely not to Survive.
 
 ---
 
-## **Alpha** Access?
+# **Alpha** Access?
 
 There is indeed an Alpha right around the corner!
 Start Date: **October 31st, 7 AM PDT**.
@@ -31,7 +29,7 @@ If for some reason you don't receive a key, wait a bit before messaging the bot 
 
 ---
 
-## Anything I need to know before I head into the Alpha?
+# **Anything I need to know before I play the Alpha?**
 
 * This game is heavily focused on Teamwork, unlike any other game I've seen before. So make sure your communication is on point, get your team in Discord/Mumble/Whatever and communicate effectively.
 * The monsters are light-, sound- and movement sensitive. Don’t move when their hearts beat! (When they're light up, their heart is beating)
@@ -39,17 +37,16 @@ If for some reason you don't receive a key, wait a bit before messaging the bot 
 
 ---
 
-## Pro Tips / Additional Information?
+# **Pro Tips / Additional Information?**
 
 Your main objective will be retrieving DNA Samples and... **GETTING THE FUCK OUT**.
 
----
 
-### **The Terminals**
+## **The Terminals**
 Find and use the Terminals to find out where the DNA Sample is located.
 The Terminals are useful for locating certain items that you could use or most definitely need, if you're going to look for a certain item make sure that it's worth the risk getting it.
 
-**Terminal Commands:**
+### **Terminal Commands:**
 * **HELP**
 * **COMMANDS**
 * **LIST**
@@ -65,9 +62,8 @@ The Terminals are useful for locating certain items that you could use or most d
   * Pings only work if you're in the Zone the Item is also in and if it still exists (Items can still be listed in the Terminal even though they've been taken) 
   * This will narrow down in which **Area** you can find the Item in, as each **Zone** exists out of *multiple* Areas (**A**, **B**, **C**, **D**, **E**, **F**, **G**, **H**, **I**, **J**, **K**), you can find out which Area you're in by looking at the walls.
 
----
 
-### **Loadouts:**
+## **Loadouts:**
 
 You get to pick between the following in the **Alpha**:
 * **Main Weapons:**
@@ -91,15 +87,14 @@ You get to pick between the following in the **Alpha**:
   * Mallet.
   * Gavel. 
 
-**The Setup:**
+### **The Setup:**
 I'd say this depends on your team and on what your personal preference is in terms of weapons. The only things I'd most definitely recommend is the following:
 * A **Bio Tracker** in your load-out saves you a lot of trouble as you can see everything in a room and and mark the "Live" ones before even going in, just never take more than **1**.
 * A **Sniper** in your load-out allows you to take out the super dangerous Scout in one precise shot which can detect you in the room even if you're not moving, and pretty much alert every living monster in the complex instead of just the ones in that Area, would also recommend not taking more than **1**, make sure you always have ammo in this baby.
 * Regarding Melee weapons, right now they do not seem to have much difference between them. Pick whichever you enjoy.
 
----
 
-### **Items:**
+## **Items:**
 
 You can find Items on the map which will help you on your mission, such as:
 * **Medipack**.
